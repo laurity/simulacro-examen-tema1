@@ -1,7 +1,7 @@
 /**
  * 
  * @author Laura López
- * GitHub:
+ * GitHub: https://github.com/laurity/simulacro-examen-tema1
  */
 
 document.addEventListener("DOMContentLoaded", () =>{
